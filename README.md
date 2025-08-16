@@ -8,7 +8,8 @@
 
 *Candace Lei* ([https://github.com/picandace](https://github.com/picandace))
 
-**Short Intro**
+**Summary**
+
 Developed recommendation models and segmentation techniques using a large-scale Steam dataset (41M+ records). Implemented supervised learning approaches (popularity-based, collaborative and content filtering, kNN, matrix factorization, neural collaborative filtering with Keras) to predict game preferences, with deep learning delivering the best performance. Applied unsupervised methods (PCA, clustering) to group gamers by behavior and preferences, supporting targeted recommendations and marketing insights. Tools included Python (Pandas, Keras), PCA/cluster analysis, and visualization with Matplotlib.
 
 **Main Tools**
